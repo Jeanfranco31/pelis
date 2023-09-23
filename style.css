@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.contentVideo{
+    width: 100vw;
+    height: 60vh;
+    background-color: aqua;
+}
